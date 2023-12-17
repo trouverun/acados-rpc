@@ -1,0 +1,7 @@
+c_generated_code/
+.idea/
+__pycache__/
+*.pyc
+*.npy
+*.json
+session/
